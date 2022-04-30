@@ -6,5 +6,3 @@ const room = route.params.room
 <template>
     <div>hello welcome to something {{ room }}</div>
 </template>
-
-
